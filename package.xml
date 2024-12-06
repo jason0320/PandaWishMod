@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+	<title>Panda's Wish Mod</title>
+	<id>Mod_PandaWishMod</id>
+	<author>Now Happy Panda</author>
+	<tags>General,Cheat</tags>
+	<loadPriority>100</loadPriority>
+	<description>
+		Allow unlimited wishes from wells after getting Fragrance of Goddess
+	</description>
+	<version>0.23.48</version>
+</Meta>
